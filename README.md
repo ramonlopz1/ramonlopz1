@@ -1,4 +1,4 @@
-- 🔭 Hoje trabalho com front-end
+- 🔭 Desenvolvimento Web
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas | Técnico em Desenvolvimento de Software
 - 👯 Procurando estágio
 - 💬 @ramonlopz1
