@@ -4,8 +4,6 @@
 - 📫 Contato: rmnprojetos@outlook.com
 - ⚡ https://www.linkedin.com/in/ramonlopz1/
 
-HTML5 | CSS3 | PYTHON | FLASK
-
 <div align="center">
   <a href="https://github.com/ramonlopz1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonlopz1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
