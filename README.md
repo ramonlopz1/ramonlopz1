@@ -1,10 +1,11 @@
 - 🔭 Desenvolvimento Web
-- 💻 https://agrestech.com.br
-- 🌱 Análise e Desenvolvimento de Sistemas | Técnico em Desenvolvimento de Software
+- 💻 https://ramonlopz1.github.io/meuportfolio/public/
+- 🌱 Análise e Desenvolvimento de Sistemas - UNINASSAU
+- 🌱 Técnico em Desenvolvimento de Software - ETEPAC
+- 🌱 Desenvolvimento Web - Alura & Oracle Next Education
 - 💬 @ramonlopz1
 - 📫 Contato: rmnprojetos@outlook.com
 - ⚡ https://www.linkedin.com/in/ramonlopz1/
-- ⚡ https://ramonlopz1.github.io/meuportfolio/public/
 
 
 <div align="center">
