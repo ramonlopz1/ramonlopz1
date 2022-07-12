@@ -1,8 +1,8 @@
 - 🔭 Desenvolvimento Web
 - 💻 https://ramonlopz1.github.io/meuportfolio/public/
-- 🌱 Análise e Desenvolvimento de Sistemas - UNINASSAU
-- 🌱 Técnico em Desenvolvimento de Software - ETEPAC
-- 🌱 Desenvolvimento Web - Alura & Oracle Next Education
+- 🌱 Análise e Desenvolvimento de Sistemas - Faculdade Maurício de Nassau
+- 🌱 Técnico em Desenvolvimento de Software - Escola Técnica Estadual Professor Antônio Carlos Gomes da Costa
+- 🌱 Desenvolvimento Web - Oracle Next Education
 - 💬 @ramonlopz1
 - 📫 Contato: rmnprojetos@outlook.com
 - ⚡ https://www.linkedin.com/in/ramonlopz1/
@@ -29,9 +29,10 @@
   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   </br>
-  <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img2.gratispng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
