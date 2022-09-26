@@ -41,6 +41,7 @@
      <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
                  <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" target="_blank"></a>
+  https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
   
 
 
