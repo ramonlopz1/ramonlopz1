@@ -1,5 +1,5 @@
 - 🔭 Desenvolvimento Web
-- 💻 https://ramonlopz1.github.io/meuportfolio/public/
+- 💻 
 - 🌱 Análise e Desenvolvimento de Sistemas - Faculdade Maurício de Nassau
 - 🌱 Técnico em Desenvolvimento de Software - Escola Técnica Estadual Professor Antônio Carlos Gomes da Costa
 - 🌱 Desenvolvimento Web - Oracle Next Education
