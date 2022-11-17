@@ -4,7 +4,7 @@
 - 🌱 Técnico em Desenvolvimento de Software - Escola Técnica Estadual Professor Antônio Carlos Gomes da Costa
 - 🌱 Desenvolvimento Web - Oracle Next Education
 - 💬 @ramonlopz1
-- 📫 Contato: ramon-dev@outlook.com
+- 📫 Contato: david.ramon@oracle.com
 - ⚡ https://www.linkedin.com/in/ramonlopz1/
 
 
