@@ -2,7 +2,7 @@
 - 💻 
 - 🌱 Análise e Desenvolvimento de Sistemas - Faculdade Maurício de Nassau
 - 🌱 Técnico em Desenvolvimento de Software - Escola Técnica Estadual Professor Antônio Carlos Gomes da Costa
-- 🌱 Oracle Oracle Cloud Platform Application Integration 2022 Certified Professional - Oracle Corporation
+- 🌱 Oracle Cloud Platform Application Integration 2022 Certified Professional - Oracle Corporation
 - 🌱 Desenvolvimento Web - Oracle Next Education
 - 💬 @ramonlopz1
 - 📫 Contato: david.faustino@nsh.com.br || ramon-dev@outlook.com
