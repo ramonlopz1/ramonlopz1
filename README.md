@@ -36,12 +36,11 @@
     <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a> 
    <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" target="_blank"></a> 
-   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white
-)" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a> 
-   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=whitehttps://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
                  <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank"></a>
