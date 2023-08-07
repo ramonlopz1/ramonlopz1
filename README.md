@@ -5,7 +5,7 @@
 - 🌱 Oracle Cloud Platform Application Integration 2022 Certified Professional - Oracle Corporation
 - 🌱 Desenvolvimento Web - Oracle Next Education
 - 💬 @ramonlopz1
-- 📫 Contato: david.faustino@nsh.com.br || ramon-dev@outlook.com
+- 📫 Contato: ramon-dev@outlook.com
 - ⚡ https://www.linkedin.com/in/ramonlopz1/
 
 
