@@ -6,6 +6,7 @@
 - 🌱 Oracle Certified Foundations Associate 2022 - Oracle Corporation - Oracle Corporation
 - 🌱 Software AG Certified webMethods API Management Associate 2023 - Software AG
 - 🌱 Software AG Certified webMethods.io Integration Associate 2023 - Software AG
+- 🌱 Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
 - 🌱 Desenvolvimento Web - Oracle Next Education
 - 💬 @ramonlopz1
 - 📫 Contato: ramon-dev@outlook.com
