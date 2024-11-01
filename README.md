@@ -1,4 +1,4 @@
-- 🔭 Desenvolvimento Web && Integração de Sistemas
+- 🔭 Integração de Sistemas || Desenvolvimento Web
 - 💻 
 - 🌱 Análise e Desenvolvimento de Sistemas - Faculdade Maurício de Nassau
 - 🌱 Técnico em Desenvolvimento de Software - Escola Técnica Estadual Professor Antônio Carlos Gomes da Costa
