@@ -37,6 +37,7 @@
    <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a> 
    <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a> 
    <a href="https://www.linkedin.com/in/ramonlopz1" target="_blank"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" target="_blank"></a> 
